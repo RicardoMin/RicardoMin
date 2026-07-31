@@ -2,7 +2,7 @@
 
 # Hi! Nice to meet you, I'm Ricardo
 
-<img src="https://readme-typing-svg.demolab.com/?lines=执迷者于夜色中挽留幻影" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=执迷者于夜色中挽留幻影)<br>
 
 **Codeing, AI, anime, games, and the occasional journey into a galgame world.**
 
