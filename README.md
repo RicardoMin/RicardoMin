@@ -63,8 +63,8 @@ Good code is satisfying. A good story is unforgettable. I like worlds built from
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RicardoMin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;rank_icon=github" alt="Ricardo's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" alt="Languages used in Ricardo's public repositories" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=RicardoMin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;rank_icon=github" alt="Ricardo's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RicardoMin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;langs_count=8" alt="Languages used in Ricardo's public repositories" />
 
 <br />
 
