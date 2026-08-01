@@ -8,7 +8,7 @@
 
 <br />
 
-<img src="./Ayaha.jpg" alt="Ricardo's profile illustration" width="300" />
+<img src="./Wife.jpg" alt="Ricardo's profile illustration" width="300" />
 
 </div>
 
